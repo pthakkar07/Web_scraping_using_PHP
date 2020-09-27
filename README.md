@@ -5,10 +5,12 @@ Few Feature Of Uing Simple HTML DOM Parser:-
 1) Written in PHP5+, an HTML DOM parser is good because it enables you to access and use HTML quite easily and comfortably.
 2) With it, you can find the tags on an HTML page with selectors pretty much like jQuery.
 
-# I have used Localhost server for running my project.
+# My project is running live at https://priyalassignment.000webhostapp.com/
+I have used Localhost server for running my project.
 Documentation:- https://simplehtmldom.sourceforge.io/manual.htm
 
-Regarding Project Plan:- is 
+Regarding Project Plan:-
+
 Project Title:- I have to display top 10 medium article that user have entered in search box.(Provide live suggestion to user in search query box and if article is not found regarding particular word then display similar word that user can search in search query box.)
 
 Project Plan and Each file explanation:- 
@@ -28,6 +30,7 @@ Project Plan and Each file explanation:-
 •	Now I studied what I knew in web development. so php is primary language is chosen by me and started looking for web scraping tool in php.
 •	After a while I came across that I am going to use Simple HTML DOM tool for web scraping and watched some related video on YouTube and documentation from sourcefromnet.com.
 •	After this I have decided I am going to use php along with Simple HTML DOM.
+
 2.	6th August 2020.
 •	I started implementing basic structure for backend architecture. 
 •	Task 1: - “To find how searching mechanism is perform in medium website”. So, I found a URL that medium website uses to find post according to the tag. So, I modified that link in such a way that it fetches post that user wants(By replacing tag element from original link). Now this modified URL fetches the posts that user wants and I fetched complete html using web scrapping tool in my file and displayed required info like author, detail etc in my file. 
